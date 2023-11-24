@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 import { CgMenuRightAlt } from "react-icons/cg";
 import { Link } from "react-scroll";
 import { Roboto_Condensed, Bricolage_Grotesque } from "next/font/google";
+import Image from "next/image";
 
 const titleFont = Roboto_Condensed({
   subsets: ["latin"],

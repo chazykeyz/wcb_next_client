@@ -1,4 +1,4 @@
-const Host = "http://secure.wcbwasafi.com/";
+const Host = "https://secure.wcbwasafi.com/";
 // const Host = "http://127.0.0.1:8000/";
 const mainRoot = `${Host}api/v1/`;
 
